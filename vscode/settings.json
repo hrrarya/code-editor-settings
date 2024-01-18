@@ -1,0 +1,40 @@
+{
+  "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+  "tabnine.experimentalAutoImports": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "explorer.confirmDelete": false,
+  "sync.autoUpload": false,
+  "sync.forceUpload": true,
+  "sync.forceDownload": true,
+  "sync.autoDownload": false,
+  "sync.gist": "fbf0e2e7c204cecadee40c0c78641b76",
+  "editor.fontFamily": "'MonoLisa Trial', 'Operator Mono', 'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": "40px",
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[php]": {
+    "editor.defaultFormatter": "valeryanm.vscode-phpsab"
+    // "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  },
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.env.windows": {},
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "terminal.integrated.env.osx": {},
+  "git.autofetch": true,
+  "editor.fontSize": 16,
+  "editor.fontWeight": "normal",
+  "codetime.statusBarInfo": "average",
+  "workbench.editor.enablePreview": false,
+  "console-ninja.featureSet": "Community",
+  "phpsab.composerJsonPath": "composer.json",
+  "phpsab.standard": "/Users/wpdeveloper/.composer/vendor/bin/phpcs.xml",
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "files.autoSave": "afterDelay",
+  "window.zoomLevel": -1
+}
