@@ -1,0 +1,6 @@
+[
+		// delete line 
+		{ "keys": ["super+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+		//copy line down / duplicate line 
+		{ "keys": ["super+d"], "command": "duplicate_line" },
+]
